@@ -1,2 +1,2 @@
 # sample1
-sample java
+sample javafullstack
